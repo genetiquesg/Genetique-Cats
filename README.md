@@ -1,3 +1,5 @@
+Current Repo is for storing of Genetique Python Program for easy management.
+
 # Genetique Cats [genetiquebengals.com](https://genetiquebengals.com)
 Genetique Cats is a Cattery licensed by AVS in Singapore. All our cat are imported from UK. 
 
